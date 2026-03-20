@@ -55,7 +55,7 @@ export default function App() {
               >
                 <div className="aspect-square rounded-3xl overflow-hidden bg-slate-100 relative">
                   <img 
-                    src="/my-photo.jpg" 
+                    src="/my-photo.png" 
                     alt="千田悦子" 
                     className="object-cover w-full h-full"
                     referrerPolicy="no-referrer"
